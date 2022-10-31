@@ -1,0 +1,4 @@
+1. Edit cron-autoshutdown default every five minutes, if your UPS Battery Long Term Save Power
+    You Can set every 1 Hour. If Your Batery Just One Hour for save power.
+2. Copy File "cron-autoshutdown" to "/etc/cron.d"
+3. Copy File "autoshutdown.sh" to "/usr/local/bin"
